@@ -14,14 +14,14 @@
     gap: 50px;
 }
 
-input {
+/* input {
     border-radius: 7px;
     width: 800px;
     height: 40px;
     border: none;
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
 
-}
+} */
 
 .tela{
     display: flex;
